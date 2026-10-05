@@ -34,3 +34,4 @@ CI runs lint, tests, build, SonarQube and Trivy on every pull request.
 On merge to `main` it builds the Docker image and pushes it to Amazon ECR (`toy-shop` repository, `us-east-1`).
 
 Project by Marta Dzekevich
+Made by Marta
